@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,CV ROC-AUC (5-fold)
+Logistic Regression,0.9649,0.975,0.9286,0.9512,0.996,0.9958
+SVM,0.9737,1.0,0.9286,0.963,0.9947,0.9949
+Random Forest,0.9737,1.0,0.9286,0.963,0.9944,0.988
+XGBoost,0.9649,1.0,0.9048,0.95,0.9937,0.9936
