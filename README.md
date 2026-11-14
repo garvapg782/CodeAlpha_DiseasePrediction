@@ -53,4 +53,4 @@ Plots, the metrics table and the trained model (`best_model.joblib`) are saved t
 - This is an educational project, not a clinical tool.
 
 ## Author
-Garv Anand | [LinkedIn](www.linkedin.com/in/garv-anand-b74594213)
+Garv Anand | [LinkedIn](https://www.linkedin.com/in/garv-anand-b74594213)
